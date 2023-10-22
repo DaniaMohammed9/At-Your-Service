@@ -1,0 +1,17 @@
+.services{
+   background-color:whitesmoke;
+     text-align:center; 
+    
+    } 
+    
+    .service{ 
+        float:left; 
+        width: 25%; 
+        background: rgb(242, 243, 244); 
+        text-align: center;
+        display: inline-block;
+    } 
+    
+.clearfix{
+    clear: both;
+}
